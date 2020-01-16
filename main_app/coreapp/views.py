@@ -13,11 +13,6 @@ def basicScrap(request):
                 "LBXFED4W8HSF9SPD8EFHDU&fm=organic&iid=24db7969-8ff2-4574-8550"\
                 "-dfed03f05549.LBXFED4W8HSF9SPD.PRODUCTSUMMARY&ppt=hp&ppn=hp&s"\
                 "sid=hm69tsuogg0000001569056937359"]
-        url_list.append("https://www.flipkart.com/u-s-polo-assn-slim-men-blue-"\
-                "jeans/p/itmfey33jmhsgyhe?pid=JEAFEY33Q4XTYEPR&otracker=wishli"\
-                "st&lid=LSTJEAFEY33Q4XTYEPRSEAI4Q&fm=organic&iid=759c7ef2-212e"\
-                "-46c7-8c1c-274e8baf0df8.JEAFEY33Q4XTYEPR.PRODUCTSUMMARY&ppt=h"\
-                "p&ppn=hp&ssid=amn7veuw9s0000001569408699594")
         url_list.append("https://www.flipkart.com/himalaya-anti-hair-fall-sham"\
                 "poo/p/itmf3xfxdmywkwhs?pid=SMPEUHHFZYBXXHGB&lid=LSTSMPEUHHFZY"\
                 "BXXHGBNMGARX&marketplace=FLIPKART&sattr[]=quantity&st=quantity")
