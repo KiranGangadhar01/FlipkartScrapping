@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <div class="container">
+      <table class="onetable">
+      	<tbody>
+            {% for product in detailsDict %}
+            		<tr>
+            			<td>{{product.productName}}</td>
+            			<td>{{product.productPrice}}</td>
+                  <td>{{product.minPrice}}</td>
+                  <td>{{product.maxP}}</td>
+            		</tr>
+            {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>
